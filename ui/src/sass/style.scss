@@ -1,0 +1,38 @@
+@import "~bootstrap/dist/css/bootstrap.css";
+@import "~react-select/dist/react-select.css";
+
+html, body {
+  height: 100%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a, a:hover, a:focus {
+  text-decoration: none;
+  outline: 0;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 14px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  line-height: normal;
+}
+
+.hiddenContent {
+  display: none;
+}
+
+.visibleContent {
+  display: block;
+}
+
